@@ -4,7 +4,8 @@ sum
 end
 
 def subtraction(num1, num2)
-
+difference = num1 - num2
+difference
 end
 
 def division(num1, num2)
